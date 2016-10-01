@@ -2,4 +2,7 @@
     <string name="app_name">AndroidUtils</string>
 
     <string name="app_description">This is a sample for Android utils tools.</string>
+
+    <string name="display">Display</string>
+
 </resources>
