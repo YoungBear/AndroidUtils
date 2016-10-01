@@ -23,6 +23,9 @@
             android:name=".activity.BuildInfoActivity"
             android:label="@string/build_info">
         </activity>
+        <activity android:name=".activity.AppActivity"
+            android:label="@string/app_info">
+        </activity>
     </application>
 
 </manifest>

@@ -5,5 +5,6 @@
 
     <string name="display_info">Display Info</string>
     <string name="build_info">Build Info</string>
+    <string name="app_info">App Info</string>
 
 </resources>
