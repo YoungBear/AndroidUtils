@@ -3,6 +3,7 @@
 
     <string name="app_description">This is a sample for Android utils tools.</string>
 
-    <string name="display">Display</string>
+    <string name="display_info">Display Info</string>
+    <string name="build_info">Build Info</string>
 
 </resources>

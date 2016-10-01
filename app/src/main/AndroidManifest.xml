@@ -15,7 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".activity.DisplayActivity" android:label="@string/display">
+        <activity
+            android:name=".activity.DisplayActivity"
+            android:label="@string/display_info">
+        </activity>
+        <activity
+            android:name=".activity.BuildInfoActivity"
+            android:label="@string/build_info">
         </activity>
     </application>
 
